@@ -18,6 +18,10 @@ Sistema de bases de datos que permite gestionar cómodamente la venta de cosmét
 - Llevar un registro de ventas.
 - Diagrama UML que ilustra de manera sencilla el contenido de la base de datos, permitiendo una guía visual eficiente.
 
+## Diagrama UML
+
+![image](https://github.com/user-attachments/assets/c0bb8d86-b274-4de1-8b81-0ca6b22b7047)
+
 ## Consultas 
 
 ```bash
